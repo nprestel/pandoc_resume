@@ -1,4 +1,4 @@
-Johnny Coder
+Nick Prestel
 ============
 
 ----
@@ -12,17 +12,13 @@ Johnny Coder
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2005-2007
+:   **MS, Business Information Technology**; Walsh College (Troy, MI)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+1997-2001
+:   **BS, Applied Engineering Sciences**; Michigan State University (East Lansing, MI)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    *Cognate: Supply Chain Management
 
 Experience
 ----------
